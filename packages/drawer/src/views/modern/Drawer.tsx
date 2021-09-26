@@ -263,6 +263,7 @@ export default function Drawer({
     if (drawerType === 'permanent') {
       return {};
     }
+
     return {
       transform: [
         {
@@ -276,6 +277,7 @@ export default function Drawer({
     if (drawerType === 'permanent') {
       return {};
     }
+
     return {
       transform: [
         {
